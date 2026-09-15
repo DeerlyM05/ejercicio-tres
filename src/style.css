@@ -34,3 +34,13 @@
     max-height: 60vh;
     object-fit: cover;
 }
+.right{
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.nav-link{
+    color: black;
+    height: 15vh;
+}
