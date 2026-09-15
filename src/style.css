@@ -16,3 +16,10 @@
     flex-direction: column;
     background-color: black;
 }
+.hero-title{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.8rem;
+    font-weight: 800;
+    margin: 0;
+}
