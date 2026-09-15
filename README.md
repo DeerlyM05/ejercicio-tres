@@ -23,3 +23,10 @@ La estructura de la página ocupa el **100% de ancho** y **100vh de alto**. Ahor
     - **Header (Navegación)**: Alto: `15%` (equivale a `15vh`)
     - **Sección Central (Proyectos)**: Alto: `70%` (equivale a `70vh`). Contiene dos artículos distribuidos en Flexbox horizontal (cada uno ocupa el `50%` del espacio de esta sección). Cada artículo posee una imagen que ocupa exactamente el `60%` del alto de dicho artículo.
     - **Footer**: Alto: `15%` (equivale a `15vh`)
+
+## Paleta de Colores (Basada en Diseño Final):
+
+- **Fondo Columna Izquierda:** `#111111` (Negro)
+- **Fondo Columna Derecha (Main):** `#FFFFFF` (Blanco puro)
+- **Fondo Footer Derecho:** `#F3F4F6` (Gris muy claro)
+- **Texto:** `#1A1A1A` (Gris muy oscuro) y `#FFFFFF` (Blanco)
