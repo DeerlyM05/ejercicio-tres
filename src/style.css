@@ -23,3 +23,9 @@
     font-weight: 800;
     margin: 0;
 }
+.hero-subtitle{
+    color: rgba(255, 255, 255, 0.897);
+}
+.hero-texto{
+    color: rgba(245, 245, 220, 0.733);
+}
